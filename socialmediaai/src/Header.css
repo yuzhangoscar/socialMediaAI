@@ -1,0 +1,29 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #a9c1f1;
+}
+
+.Header-logo img {
+    height: 40px;
+}
+
+.Header-search input {
+    width: 300px;
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.Header-icons {
+    display: flex;
+    align-items: center;
+}
+
+.Header-icon {
+    height: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}

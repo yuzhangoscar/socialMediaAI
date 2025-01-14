@@ -1,0 +1,18 @@
+.LeftSidebar {
+    width: 20%;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+.UserProfile, .NavigationMenu, .TrendingTopics, .AIAssistant {
+    margin-bottom: 20px;
+}
+
+.NavigationMenu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.NavigationMenu li {
+    margin: 5px 0;
+}

@@ -1,0 +1,22 @@
+.MainContent {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+
+.MainContent-column {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.MainContent-left {
+    background-color: #eee260;
+}
+
+.MainContent-center {
+    background-color: #92f181;
+}
+
+.MainContent-right {
+    background-color: #a9c1f1;
+}
