@@ -1,0 +1,84 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Logs
+logs/
+*.log
+logs/*.log
+
+# Dependency directories
+jspm_packages/
+.bower_components/
+
+# Build and output directories
+dist/
+build/
+out/
+coverage/
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor and IDE settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.lock
+*.tmp
+*.bak
+*.orig
+
+# OS generated files
+.Paper*
+Icon?
+._*
+
+# Git-related files
+*.patch
+*.diff
+*.merge_file_
+
+# Tests and debugging
+coverage/
+*.lcov
+*.lcov.*
+
+# Miscellaneous
+*.log
+*.log.*
+
+# Ignore compiled Python files (if applicable)
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore binary executables
+*.exe
+*.out
+*.app
+*.dll
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore application-specific files
+public/assets/
+
